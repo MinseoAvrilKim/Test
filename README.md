@@ -1,5 +1,5 @@
 # PS1 / HST Faint Quasar Detectability  
-## This is just for a practice!!!! I'm not that good at python and astronomy both
+## (This is just for a practice!!!! I'm not that good at python and astronomy both)
 ## Background Estimation & Completeness Analysis
 
 This repository contains modular analysis code for estimating robust background/noise and detection limits
