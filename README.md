@@ -100,6 +100,7 @@ This script quantifies the practical detection limit via simulations.
 - background histograms
 - sigma-clipping convergence
 - completeness curves
+
 Keeps figures consistent and publication-ready.
 
 ---
